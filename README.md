@@ -15,7 +15,22 @@
 
 Independent Security Researcher.
 
+---
 
+## 📚 Training & Educational 
+
+Practical exercises, labs, and write-ups demonstrating proficiency in vulnerability identification and exploitation from leading security training programs.
+
+| Program / Lab | Focus | Status | Repository Link |
+|-----------------|---------------------------------|----------|-----------------|
+| **Cyfrin Audits Course** | Smart Contract Audit Methodology | Active | [View Labs →](./reports/training/cyfrin-audits-course/) |
+| **Ethernaut** | Solidity Exploits, Puzzle Solving | Active | [View Labs →](./reports/training/ethernaut/) |
+| **Damn Vulnerable DeFi** | DeFi Protocol Exploits (Flash Loans, Oracles) | Planned | [View Labs →](./reports/training/damn-vulnerable-defi/) |
+| **Capture The Ether** | Ethereum/Solidity CTF | Planned | [View Labs →](./reports/training/capture-the-ether/) |
+| **Codehawks First Flights** | Beginner Audits | Planned | [View Labs →](./reports/training/codehawks-first-flights/) |
+
+
+[View All Training Labs →](./reports/training/)
 
 ---
 
