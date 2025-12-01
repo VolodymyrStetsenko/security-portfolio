@@ -16,13 +16,6 @@
 Independent Smart Contract Security Researcher specializing in EVM-based protocols. I conduct comprehensive security reviews to identify vulnerabilities and help protocols build more secure decentralized applications.
 
 
-### 🛠️ Tech Stack
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
-![Slither](https://img.shields.io/badge/Slither-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![Aderyn](https://img.shields.io/badge/Aderyn-4A90E2?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
