@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="./assets/repo_banner.png" alt="Security Portfolio Banner" width="100%"/>
-</div>
-
-<div align="center">
 
 # 🛡️ Security Portfolio
 
