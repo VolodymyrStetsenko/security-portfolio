@@ -23,7 +23,7 @@ Practical exercises, labs, and write-ups demonstrating proficiency in vulnerabil
 
 | Program / Lab | Focus | Status | Repository Link |
 |-----------------|---------------------------------|----------|-----------------|
-| **Cyfrin Audits Course** | Smart Contract Audit Methodology | Active | [View Labs →](./reports/training/cyfrin-audits-course/) |
+| **Cyfrin Audits Course** | Smart Contract Audit Methodology | Active | [View Labs →](./reports/training/cyfrin-updraft/) |
 | **Ethernaut** | Solidity Exploits, Puzzle Solving | Active | [View Labs →](./reports/training/ethernaut/) |
 | **Damn Vulnerable DeFi** | DeFi Protocol Exploits (Flash Loans, Oracles) | Planned | [View Labs →](./reports/training/damn-vulnerable-defi/) |
 | **Capture The Ether** | Ethereum/Solidity CTF | Planned | [View Labs →](./reports/training/capture-the-ether/) |
