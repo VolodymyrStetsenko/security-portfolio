@@ -50,30 +50,6 @@ Practical exercises, labs, and write-ups demonstrating proficiency in vulnerabil
 
 ---
 
-## 🔐 Solo 
-
-Independent security reviews conducted for various protocols.
-
-| Project | Protocol Type | Date | Severity | Report |
-|---------|---------------|------|----------|--------|
-| _Coming Soon_ | - | - | - | - |
-
-[View All Solo Reviews →](./reports/solo/)
-
----
-
-## 👥 Team 
-
-Collaborative security reviews conducted as part of audit teams.
-
-| Project | Team | Role | Date | Report |
-|---------|------|------|------|--------|
-| _Coming Soon_ | - | - | - | - |
-
-[View All Team Reviews →](./reports/team/)
-
----
-
 ## 🏆 Competitive Audit Findings
 
 Findings from competitive audit platforms.
