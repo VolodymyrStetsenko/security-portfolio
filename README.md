@@ -50,7 +50,7 @@ Practical exercises, labs, and write-ups demonstrating proficiency in vulnerabil
 
 ---
 
-## 🏆 Competitive Audit Findings
+## 🏆 Competitive Audit Findings (_Coming Soon_)
 
 Findings from competitive audit platforms.
 
