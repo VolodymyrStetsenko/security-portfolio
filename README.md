@@ -1,7 +1,7 @@
 
 # 🛡️ Security Portfolio
 
-**Smart Contract Security Reviews & Research**
+**Security Reviews & Research**
 
 [![Twitter](https://img.shields.io/badge/Twitter-@carstetsen-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/carstetsen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Volodymyr_Stetsenko-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volodymyr-stetsenko-656014246/)
@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
 Independent Security Researcher.
 
